@@ -1,0 +1,9 @@
+# Keys and local secrets
+keys/
+*.key
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+venv/
+.env
